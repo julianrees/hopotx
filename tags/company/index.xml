@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Company | HOPO Therapeutics</title>
+    <link>/tags/company/</link>
+      <atom:link href="/tags/company/index.xml" rel="self" type="application/rss+xml" />
+    <description>Company</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Company</title>
+      <link>/tags/company/</link>
+    </image>
+    
+    <item>
+      <title>HOPO Therapeutics, Inc. is established</title>
+      <link>/post/incorporation/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/post/incorporation/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;HOPO Therapeutics, Inc. announces incorporation and the appointments of Rebecca J. Abergel, Ph.D., and Julian A. Rees, Ph.D. to the Board of Directors.  Julian A. Rees is also named President and Chief Executive Officer&lt;/strong&gt;&lt;br&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;../../authors/rebecca_abergel&#34;&gt;Dr. Abergel&lt;/a&gt;, Assistant Professor in the Department of Nuclear Engineering at the University of California, Berkeley, and Faculty Scientist in the Chemical Sciences Division at Lawrence Berkeley National Laboratory, is a world-renowned expert in the biological chemistry of the actinide elements.&lt;br&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;../../authors/julian_rees&#34;&gt;Dr. Rees&lt;/a&gt; joins HOPO Therapeutics as President and Chief Executive Office after a postdoctoral fellowship at Lawrence Berkeley National Laboratory. His research included proof-of-concept and validation studies of HOPO&amp;rsquo;s lead drug candidate for indications related to gadolinium deposition.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

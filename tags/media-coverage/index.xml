@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Media Coverage | HOPO Therapeutics</title>
+    <link>/tags/media-coverage/</link>
+      <atom:link href="/tags/media-coverage/index.xml" rel="self" type="application/rss+xml" />
+    <description>Media Coverage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Media Coverage</title>
+      <link>/tags/media-coverage/</link>
+    </image>
+    
+    <item>
+      <title>HOPO&#39;s chelator featured in Cancer Cytopathology</title>
+      <link>/post/acs/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/acs/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The development of HOPO Therapeutics&amp;rsquo; lead drug candidate HOPO-14 as a medical countermeasure for use in a radiological disaster scenario is detailed in an interview with co-founder 
+&lt;a href=&#34;../../authors/rebecca_abergel/&#34;&gt;Rebecca Abergel, Ph.D.&lt;/a&gt; in &lt;em&gt;
+&lt;a href=&#34;https://doi.org/10.1002/cncy.22298&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cancer Cytopathology&lt;/a&gt;&lt;/em&gt;, a journal of the 
+&lt;a href=&#34;http://www.cancer.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;American Cancer Society&lt;/a&gt;. An effective treatment for removal of radioactive and other heavy metals from the body, its performance in preclinical trials has been vastly superior to any other chelating agent.&lt;/strong&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;em&gt;
+&lt;a href=&#34;../../science/&#34;&gt;Learn more about our science&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
